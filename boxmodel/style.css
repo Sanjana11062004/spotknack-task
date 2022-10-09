@@ -1,0 +1,64 @@
+.headbox {
+  width: 1260px;
+  height: 89px;
+  margin: 60px 90px 0px 90px;
+  align-items: center;
+  background-color: #f2eeff;
+}
+h1 {
+  padding: 13px 422px 14px 422px;
+  font-size: 40px;
+  line-height: 48px;
+  line-height: 100%;
+  text-align: center;
+  width: 416px;
+  height: 62px;
+}
+.font {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #472a9c;
+}
+.box1 {
+  width: 626px;
+  height: 708px;
+  margin: 71px 0px 0px 90px;
+  padding: 519px 0px 0px 60px;
+}
+p {
+  width: 1038px;
+  height: 129px;
+  font-size: 106.49px;
+  line-height: 129px;
+  line-height: 100%;
+  margin: 0%;
+}
+.box2 {
+  margin-left: 42px;
+  padding: 131px 33px 131px 40px;
+  text-align: center;
+}
+.box3 {
+  margin: 71px 0px 0px 77px;
+  padding: 227px 0px 0px 39px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.style {
+  width: 151px;
+  height: 72px;
+  font-size: 30px;
+  line-height: 100%;
+}
+.box {
+  width: 257px;
+  height: 334px;
+  margin-top: 71px;
+}
+.color {
+  box-sizing: border-box;
+  background-color: #e0d6ff;
+  border: 14px solid #8666e1;
+}
